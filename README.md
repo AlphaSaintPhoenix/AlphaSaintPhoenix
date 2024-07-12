@@ -45,4 +45,23 @@ Here are some of the projects I'm currently working on:
 
 If you're interested in collaborating or just want to connect, feel free to reach out! I'm always excited to meet like-minded individuals who are passionate about making a difference through technology.
 
+## Support Our Mission
+
+Your support can make a significant impact! By sponsoring or donating to Alpha Saint Phoenix LLC, you help us continue our mission to remove barriers and create opportunities for individuals around the world.
+
+### How You Can Help:
+
+- **Sponsor Us on GitHub**: Become a sponsor and support our open-source projects directly through GitHub. [Sponsor Us](https://github.com/sponsors/AlphaSaintPhoenixLLC)
+- **Donate**: Your generous donations help us fund our projects and initiatives. [Donate via PayPal](https://www.paypal.com/donate?business=alphasaintphoenix@gmail.com) or [GoFundMe](https://www.gofundme.com/f/alphasaintphoenixllc)
+
+### Why Support Us?
+
+- **Impact**: Your contributions help address socio-economic imbalances, reduce poverty, and eliminate homelessness and hunger.
+- **Innovation**: Support the development of cutting-edge technology and AI-driven solutions.
+- **Community**: Help build a supportive community that fosters creativity and collaboration.
+
+Thank you for considering supporting Alpha Saint Phoenix LLC. Together, we can make a difference and create a better future for all.
+
+---
+
 Thank you for visiting my profile! 🌟
